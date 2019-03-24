@@ -1,0 +1,4 @@
+﻿expense_type,expense_type_key,project_type,project_type_key,account
+AIRFARE,2,BILLABLE,1,50.22.01
+AIRFARE,2,NON-BILL,3,50.22.06
+AIRFARE,2,ADMIN,6,80.02.01
